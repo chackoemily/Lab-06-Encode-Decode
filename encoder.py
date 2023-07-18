@@ -1,4 +1,5 @@
 # Emily Chacko
+# This is me making changes to my code 
 def encode(password):
     new_password = ''
     for num in password:
